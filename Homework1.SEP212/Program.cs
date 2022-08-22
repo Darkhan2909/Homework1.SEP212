@@ -41,7 +41,7 @@ namespace Homework1.SEP212
             Console.WriteLine("Введите Ваше отчество: ");
             string SecondName = Console.ReadLine();
 
-            Console.WriteLine("Привет, меня зовут " + FirstName + " " + LastName + " " + SecondName + "!");
+            Console.WriteLine("Приветствую тебя " + FirstName + " " + LastName + " " + SecondName + "!");
         }
 
         //Задание номер 2
