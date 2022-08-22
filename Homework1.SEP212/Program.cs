@@ -22,7 +22,10 @@ namespace Homework1.SEP212
             {
                 SecondExample();
             }
-
+            else
+            {
+                Console.WriteLine("Такой задачи нет!");
+            }
            
         }
 
